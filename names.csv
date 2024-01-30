@@ -1,0 +1,6 @@
+﻿service,enter shell command,generate log
+python,docker compose exec python bash,2024-01-30 11:50:34.060853
+rapids,docker compose exec rapids bash,2024-01-30 11:50:34.060861
+neologd,docker compose exec neologd bash,2024-01-30 11:50:34.060862
+yml-read,docker compose exec yml-read bash,2024-01-30 11:50:34.060862
+nvcc,docker compose exec nvcc bash,2024-01-30 11:50:34.060863
